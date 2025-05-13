@@ -35,7 +35,7 @@ for i in range(nC):
     data_truth_shift[:, i*step:i*step+w, i] = data_truth[:, :, i]
 data_truth_shift = data_truth_shift * beta
 
-dataset_dir3  = r'.\dataset\CNN_PRM\scene22.mat'
+dataset_dir3  = r'.\dataset\CNN_DMP\scene22.mat'
 ref_img  = torch.from_numpy((sio.loadmat(dataset_dir3)['scene1'])/255)
 
 ref_img = ref_img * (1 - beta)
