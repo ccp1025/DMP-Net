@@ -18,3 +18,6 @@ Extraction code: DMP1
 
 State-of-the-Art(SOTA):
 The comparison methods with the SOTA can refer to https://github.com/caiyuanhao1998/MST.
+
+Color chart calibration tutorial:
+The image calibration tutorial between different RGB imaging detectors can be referenced：Link：https://www.bilibili.com/video/BV17J411v7Qn/?spm_id_from=333.337.search-card.all.click&vd_source=35fe7273d1f85a0d79b80f63e2ec99fa
